@@ -1,6 +1,11 @@
 body {  
-    text-align: center;
+    text-align: left;
     background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
     font-family: cursive;
+}
+
+.noob {
+    align-items: left;
+    
 }
 
