@@ -7,7 +7,7 @@ body {
 .noob {
     offset: 10px;
     align-items: left;
-    size: 69px;
+    text-size-adjust: 69px;
     color: cyan;
 
 }
