@@ -12,5 +12,5 @@ body {
 
 }
 .coolimage {
-    size: 128px;
+    image-resolution: 256px;
 }
