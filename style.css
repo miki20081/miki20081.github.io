@@ -16,8 +16,9 @@ body {
 	line-height: 2rem;
 
     background-color: #000;
-	background-size: 50vmin;
-	background-position: bottom right;
+	background-image: url(res/Back.png);
+	background-position: center;
+	background-size: 183vmin;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 
